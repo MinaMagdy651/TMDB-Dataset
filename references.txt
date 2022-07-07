@@ -1,0 +1,7 @@
+https://www.statology.org/pandas-rename-columns/
+https://datascientyst.com/extract-month-and-year-datetime-column-in-pandas/
+https://www.studytonight.com/python-howtos/how-to-get-month-name-from-month-number-in-python#:~:text=Pandas%20dt.,the%20month%20name%20is%20returned.
+https://sparkbyexamples.com/pandas/pandas-drop-rows-with-condition/#:~:text=Use%20pandas.,rows%20with%20condition(s).
+https://www.geeksforgeeks.org/change-figure-size-in-pandas-python/
+https://www.codegrepper.com/code-examples/python/pandas+xlabel+font+size
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.barh.html
